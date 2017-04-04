@@ -1,9 +1,7 @@
-Git is awesome!
 Hello, world!
 
 function add(a, b) {
 	const c = a + b;	
-	console.log(a);
 	return a +b;
 } 
 
